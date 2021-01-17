@@ -1,0 +1,6 @@
+C:\Users\minag\source\repos\ShapeApplication\ShapeApplication\bin\Debug\ShapeApplication.exe.config
+C:\Users\minag\source\repos\ShapeApplication\ShapeApplication\bin\Debug\ShapeApplication.exe
+C:\Users\minag\source\repos\ShapeApplication\ShapeApplication\bin\Debug\ShapeApplication.pdb
+C:\Users\minag\source\repos\ShapeApplication\ShapeApplication\obj\Debug\ShapeApplication.csproj.CoreCompileInputs.cache
+C:\Users\minag\source\repos\ShapeApplication\ShapeApplication\obj\Debug\ShapeApplication.exe
+C:\Users\minag\source\repos\ShapeApplication\ShapeApplication\obj\Debug\ShapeApplication.pdb
